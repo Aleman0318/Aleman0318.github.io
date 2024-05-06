@@ -1517,7 +1517,7 @@ svg.img4 {
 
 .btn_fugaz:hover::after {
   background-color: #e6f6f6;
-  transform: skew(20deg, 0deg) translateX(100%);
+  transform: skew(20deg, 0deg) translateX(1000px);
   color: #e6f6f6;
 }
 
