@@ -1435,7 +1435,7 @@ svg.img4 {
 }
 
 .btn_marte:hover::before {
-  width: 300px;
+  width: 100%;
 }
 
 .btn_gargantua:hover {
